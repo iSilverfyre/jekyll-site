@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: GPG Key
+  link: /gpg.html
+- name: Pets
+  link: /pets.html
+- name: Systems
+  link: /systems.html
+- name: Blog
+  link: /blog.html
