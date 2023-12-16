@@ -9,6 +9,4 @@ _site/
 vendor/
 
 # Other files
-Gemfile
-Gemfile.lock
 .DS_Store
