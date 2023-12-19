@@ -1,63 +1,65 @@
 ---
+layout: post
 title: Hitachi Projector - CP-X2521WN
 author: Analicia Abernathy
-tags: hitachi projector
 ---
 
 Started a new teardown today, a Hitachi project I got a few months back.  Was fun, not overly challenging to do, lots of neat colored glass and lens were found.  Of course metal as always is going off for recycling to my local yard, plastic with standard recycling and boards will be depopulated and sold for scrap as well.
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/01-projector.jpeg
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/02-projector.jpeg
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/03-projector.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/01-projector.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/04-projector.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/02-projector.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/05-projector.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/03-projector.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/06-projector.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/04-projector.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/07-projector.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/05-projector.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/08-projector.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/06-projector.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/09-projector.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/07-projector.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/10-ir-sensors.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/08-projector.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/11-main-board-front.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/09-projector.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/12-main-board-back.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/10-ir-sensors.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/13-main-board-front.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/11-main-board-front.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/14-cooling-system.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/12-main-board-back.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/15-cooling-system-controller.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/13-main-board-front.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/16-cooling-system-controller-front.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/14-cooling-system.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/17-cooling-system-board-back.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/15-cooling-system-controller.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/18-cooling-system-fans.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/16-cooling-system-controller-front.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/19-cooling-system-power.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/17-cooling-system-board-back.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/20-speaker.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/18-cooling-system-fans.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/21-projection-assembly.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/19-cooling-system-power.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/22-projection-assembly-side.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/20-speaker.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/23-projection-assembly-.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/21-projection-assembly.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/24-central-reflection-chamber.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/22-projection-assembly-side.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/25-reflection-chamber-broken-down.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/23-projection-assembly-.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/26-projection-lense.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/24-central-reflection-chamber.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/27-projection-lense-broken-down.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/25-reflection-chamber-broken-down.jpeg" alt="Projector" width=500px height=500px>
 
-![Projector](https://hooplalabs.net/files/images/scrapping/projector/hitachi/28-screws.jpeg
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/26-projection-lense.jpeg" alt="Projector" width=500px height=500px>
+
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/27-projection-lense-broken-down.jpeg" alt="Projector" width=500px height=500px>
+
+<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/28-screws.jpeg" alt="Projector" width=500px height=500px>
