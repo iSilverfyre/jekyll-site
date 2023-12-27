@@ -117,22 +117,4 @@ author: Analicia Abernathy
 		</div>
 		<figcaption class="fig-caption">fig. 1</figcaption>
 	</figure>
-	<figure class="figure">
-		<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/03-projector.jpeg" alt="Projector" class="w3-hover-opacity" style="width:250px; height:250px; cursor: zoom-in;" onclick="document.getElementById('fig2').style.display='block'">
-		<div id="fig2" class="w3-modal" onclick="this.style.display='none'">
-			<div class="w3-modal-content w3-animate-zoom">
-				<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/03-projector.jpeg" style="width: 100%;">
-			</div>
-		</div>
-		<figcaption class="fig-caption">fig. 2</figcaption>
-	</figure>
-	<figure class="figure">
-		<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/01-projector.jpeg" alt="Projector" class="w3-hover-opacity" style="width:250px; height:250px; cursor: zoom-in;" onclick="document.getElementById('fig3').style.display='block'">
-		<div id="fig3" class="w3-modal" onclick="this.style.display='none'">
-			<div class="w3-modal-content w3-animate-zoom">
-				<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/01-projector.jpeg" style="width: 100%;">
-			</div>
-		</div>
-		<figcaption class="fig-caption">fig. 3</figcaption>
-	</figure>
 </div>
