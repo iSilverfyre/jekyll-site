@@ -10,7 +10,7 @@ author: Analicia Abernathy
 
 <div class="w3-container">
 	<h3>Step 1</h3>
-	<p>To start off I removed the screws from the bottom along the boarder (fig. 1) and a few of the screws off the rear connections panel (fig. 2).  This allowed me to flip it back to right side up and lift the top	straight off (fig. 3).</p>
+	<p>To start off I removed the screws from the bottom along the border (fig. 1) and a few of the screws off the rear connections panel (fig. 2).  This allowed me to flip it back to right side up and lift the top	straight off (fig. 3).</p>
 	<figure class="figure">
 		<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/02-projector.jpeg" alt="Projector" class="w3-hover-opacity" style="width:250px; height:250px; cursor: zoom-in;" onclick="document.getElementById('fig1').style.display='block'">
 		<div id="fig1" class="w3-modal" onclick="this.style.display='none'">
