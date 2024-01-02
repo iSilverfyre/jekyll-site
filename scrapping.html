@@ -4,10 +4,9 @@ title: Scrapping
 ---
 <h1 style="font-family: 'Play', sans-serif; text-align: center; margin-top: 50px; margin-bottom: 50px;">Scrapping Adventures</h1>
 
+<p>Below are a few of the things that I have taken apart in the past and the rough steps I took while doing so.  Images are in their as well and can be clicked to be enlarged.</p>
 
-<ul>
-	{% for post in site.posts %}
-		<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-		<span class="date">Written by {{ post.author }} on {{ post.date | date: "%B %d, %Y" }}</span>
-	{% endfor %}
-</ul>
+{% for post in site.posts %}
+	<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+	<span class="date">Written by {{ post.author }} on {{ post.date | date: "%B %d, %Y" }}</span>
+{% endfor %}
