@@ -102,7 +102,7 @@ author: Analicia Abernathy
 
 <hr style="border: 2px solid;">
 
-<p>Unclipping the wires and removing the screws from the power board I was able to lift that out of place.  </p>
+<p>Unclipping the wires and removing the screws from the power board I was able to lift that out of place.</p>
 <figure class="figure">
 	<img src="https://hooplalabs.net/files/images/scrapping/projector/hitachi/02-projector.jpeg" alt="Projector" class="w3-hover-opacity" style="width:250px; height:250px; cursor: zoom-in;" onclick="document.getElementById('fig1').style.display='block'">
 	<div id="fig1" class="w3-modal" onclick="this.style.display='none'">
