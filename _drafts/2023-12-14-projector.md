@@ -224,7 +224,3 @@ author: Analicia Abernathy
 	</div>
 	<figcaption class="fig-caption">fig. 21</figcaption>
 </figure>
-
-
-
-
